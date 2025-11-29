@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveSpace",
+            "request": "launch",
+            "mainClass": "RemoveSpace",
+            "projectName": "Interview-Questions_35504a9f"
+        },
+        {
+            "type": "java",
+            "name": "LowerCase",
+            "request": "launch",
+            "mainClass": "LowerCase",
+            "projectName": "Interview-Questions_35504a9f"
+        },
+        {
+            "type": "java",
+            "name": "UpperCase",
+            "request": "launch",
+            "mainClass": "UpperCase",
+            "projectName": "Interview-Questions_35504a9f"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
