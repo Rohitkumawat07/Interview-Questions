@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountFrequency",
+            "request": "launch",
+            "mainClass": "CountFrequency",
+            "projectName": "Interview-Questions_35504a9f"
+        },
+        {
+            "type": "java",
+            "name": "CheckPalindrome",
+            "request": "launch",
+            "mainClass": "CheckPalindrome",
+            "projectName": "Interview-Questions_35504a9f"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "Interview-Questions_35504a9f"
+        },
+        {
+            "type": "java",
+            "name": "CompaierTwoString",
+            "request": "launch",
+            "mainClass": "CompaierTwoString",
+            "projectName": "Interview-Questions_35504a9f"
+        },
+        {
+            "type": "java",
             "name": "RemoveSpace",
             "request": "launch",
             "mainClass": "RemoveSpace",
